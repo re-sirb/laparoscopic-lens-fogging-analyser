@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project( video_fogging_analyser )
+set(OpenCV_STATIC ON)
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( video_fogging_analyse video_fogging_analyse.cpp )
+target_link_libraries( video_fogging_analyse ${OpenCV_LIBS} )
