@@ -5,7 +5,7 @@ Laparoscopic-lens-fogging-analyser is a simple command line tool to quantify the
 **This is a work in progress! The Version published here is not yet optimized and does miss a feature for baseline calibration.**
 
 We are currently working on a paper comparing the performance of this tool to other methods used to quantify laparoscopic-lens-fogging described in literature. 
-As soon as it is published we will insert a link to the paper, so you can review if this tool is suitable for your research.
+Upon acceptance we will insert a link, so you can review if this tool is suitable for your research.
 If you have used this tool for your refearch, we would love to her your feedback.
 
 
