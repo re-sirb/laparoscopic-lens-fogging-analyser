@@ -2,6 +2,7 @@
 
 Laparoscopic-lens-fogging-analyser is a simple command line tool to quantify the amount of lens-fogging in a video file, performing frame-by-frame analysis in the frequency domain.
 
+**This is a work in progress! The Version published here is not yet optimized and does miss a feature for baseline calibration.**
 
 We are currently working on a paper comparing the performance of this tool to other methods used to quantify laparoscopic-lens-fogging described in literature. 
 As soon as it is published we will insert a link to the paper, so you can review if this tool is suitable for your research.
