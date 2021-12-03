@@ -19,3 +19,6 @@ foo@bar:~$ ./laparoscopic-lens-fogging-analyser [video_file]
 When executed successfully it writes a quantity of dimension one to stdout, describing the amount of lens-fogging. The smaller the number, the more lens-fogging was detected in the video.
 
 
+Have fun!
+
+
