@@ -6,6 +6,7 @@ Laparoscopic-lens-fogging-analyser is a simple command line tool to quantify the
 
 We are currently working on a paper comparing the performance of this tool to other methods used to quantify laparoscopic-lens-fogging described in literature. 
 As soon as it is published we will insert a link to the paper, so you can review if this tool is suitable for your research.
+If you have used this tool for your refearch, we would love to her your feedback.
 
 
 The program depends on OpenCV 3.x.
