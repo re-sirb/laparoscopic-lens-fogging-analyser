@@ -1,5 +1,7 @@
 Laparoscopic-lens-fogging-analyser is a simple command line tool to quantify the amount of lens-fogging in a video file, performing frame-by-frame analysis in the frequency domain.
 
+The program depends on OpenCV 3.x.
+
 Usage:
 
 ./laparoscopic-lens-fogging-analyser [file]
